@@ -6,7 +6,7 @@ This program is designed to create "relics" by placing faces on images. It can w
 
 ## How To Use
 
-### Prerequisites:
+### Prerequisites
 
 `python3`: Make sure you have Python installed on your system. You can check by running python --version in your terminal.
 
@@ -14,7 +14,7 @@ This program is designed to create "relics" by placing faces on images. It can w
 
 `git`: This is used to download the program files. Install it using your system's package manager.
 
-## Instructions (Mac & Linux):
+## Instructions (Mac & Linux)
 
 ### 1. Clone the Repository
 
