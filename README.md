@@ -8,9 +8,9 @@ This program is designed to create "relics" by placing faces on images. It can w
 
 ### Prerequisites
 
-`python3`: Make sure you have Python installed on your system. You can check by running python --version in your terminal.
+`python3`: Make sure you have Python installed on your system. You can check by running `python --version` in your terminal.
 
-`virtualenv`: This tool creates isolated Python environments. Install it using your system's package manager (e.g., sudo apt install python3-venv on Ubuntu).
+`virtualenv`: This tool creates isolated Python environments. Install it using your system's package manager (e.g. `sudo apt install python3-venv on Ubuntu`).
 
 `git`: This is used to download the program files. Install it using your system's package manager.
 
